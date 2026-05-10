@@ -1,9 +1,5 @@
 # Hiring-Assitant
-AI-powered interview assistant designed to collect candidate information, recommend suitable technology domains based on user interests, and conduct mock interviews with automated answer evaluation and feedback generation.
-
-# 🧑‍💼 AI Hiring Assistant
-
-AI-powered interview assistant designed to collect candidate information, recommend suitable technology domains based on user interests, and conduct mock interviews with automated answer evaluation and feedback generation.
+AI-powered interview assistant designed to collect candidate information based on user interests, conduct mock interviews with automated answer evaluation and feedback generation.
 
 ---
 
@@ -67,10 +63,10 @@ GROQ_API_KEY=your_api_key
 ![Home](screenshots/home.png)
 
 ###User Collection Page
-![Home](screenshots/user data.png)
+![Home](screenshots/userdata.png)
 
 ### Mock Interview
-![Interview](screenshots/mock interview.png)
+![Interview](screenshots/mockinterview.png)
 
 ### Feedback
 ![Feedback](screenshots/feedback.png)
