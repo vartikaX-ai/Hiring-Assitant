@@ -61,16 +61,19 @@ GROQ_API_KEY=your_api_key
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-Add screenshots of your application here.
+### Home Page
+![Home](screenshots/home.png)
 
-Example:
+###User Collection Page
+![Home](screenshots/user data.png)
 
-```md
+### Mock Interview
+![Interview](screenshots/mock interview.png)
 
-```
-
----
+### Feedback
+![Feedback](screenshots/feedback.png)
 
 ## 📌 Future Improvements
 
