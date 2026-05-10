@@ -59,10 +59,10 @@ GROQ_API_KEY=your_api_key
 ## 📸 Screenshots
 ## 📸 Screenshots
 
-### Home Page
+### Home
 ![Home](screenshots/home.png)
 
-###User Collection Page
+### User data 
 ![Home](screenshots/userdata.png)
 
 ### Mock Interview
