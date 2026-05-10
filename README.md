@@ -63,7 +63,7 @@ GROQ_API_KEY=your_api_key
 ![Home](screenshots/home.png)
 
 ### User data 
-![Home](screenshots/userdata.png)
+![User data](screenshots/userdata.png)
 
 ### Mock Interview
 ![Interview](screenshots/mockinterview.png)
